@@ -1,0 +1,209 @@
+[
+	{
+        "id": 1,
+		"type": "Categories",
+        "title": "Kategoriler",
+		"items": [
+			{
+				"id": 1,
+				"name": "Çanta, Ayakkabı ve Aksesuar",
+				"image": "aksesuar2"
+			},
+			{
+				"id": 2,
+				"name": "Cep telefonu ve Aksesuar",
+				"image": "phoneandacc"
+			},
+			{
+				"id": 3,
+				"name": "Elektronik",
+				"image": "elektronik"
+			},
+			{
+				"id": 4,
+				"name": "Ev ve Yaşam",
+				"image": "evyaşam"
+			},
+			{
+				"id": 5,
+				"name": "Kişisel Bakım ve Kozmetik",
+				"image": "kozmetik"
+			},
+			{
+				"id": 6,
+				"name": "Moda",
+				"image": "moda"
+			},
+            {
+                "id": 28,
+                "name": "Anne Bebek",
+                "image": "annebebek"
+            },
+            {
+                "id": 29,
+                "name": "Kitap, Kırtasiye, Hobi ve Oyuncak",
+                "image": "kitapkırtasiye"
+            },
+            {
+                "id": 30,
+                "name": "Otomobil, Motosiklet ve Aksesuarları",
+                "image": "otomobil"
+            },
+            {
+                "id": 31,
+                "name": "Oyun, Konsol ve Dijital Servisler",
+                "image": "oyunkonsol"
+            },
+            {
+                "id": 32,
+                "name": "Spor ve Outdoor",
+                "image": "sporoutdoor"
+            },
+            {
+                "id": 32,
+                "name": "Supermarket",
+                "image": "supermarket"
+            }
+		]
+	},
+	{
+        "id": 2,
+		"type": "Recommendations",
+        "title": "Sana Özel Öneriler",
+		"items": [
+			{
+				"id": 7,
+				"name": "Airpods Max",
+				"image": "airpodsmax"
+			},
+			{
+				"id": 8,
+				"name": "MacBook Pro",
+				"image": "macbookpro"
+			},
+			{
+				"id": 9,
+				"name": "Apple Watch",
+				"image": "applewatch"
+			}
+		]
+	},
+    {
+        "id": 3,
+        "type": "MostSoldItems",
+        "title": "En Çok Satanlar",
+        "items": [
+            {
+                "id": 10,
+                "name": "Fön Makinesi",
+                "image": "fonmakinesi",
+                "ratingText": "4.3/10 \n (5672 Oy)",
+                "priceText": "499.00 TRY"
+            },
+            {
+                "id": 11,
+                "name": "Supradyn",
+                "image": "supradyn",
+                "ratingText": "4.6/10 \n (2312 Oy)",
+                "priceText": "249.00 TRY"
+            },
+            {
+                "id": 12,
+                "name": "AirPods 2",
+                "image": "airpods2",
+                "ratingText": "4.4/10 \n (1294 Oy)",
+                "priceText": "4200.00 TRY"
+            },
+            {
+                "id": 13,
+                "name": "Sleepy Bebek Bezi",
+                "image": "bebekbezi",
+                "ratingText": "4.6/10 \n (3394 Oy)",
+                "priceText": "675.00 TRY"
+            },
+            {
+                "id": 14,
+                "name": "Airfryer",
+                "image": "airfryer",
+                "ratingText": "4.3/10 \n (1204 Oy)",
+                "priceText": "2749.00 TRY"
+            },
+            {
+                "id": 21,
+                "name": "Sony WH-C510",
+                "image": "sonykulaklık",
+                "ratingText": "4.5/10 \n (2314 Oy)",
+                "priceText": "2249.00 TRY"
+            }
+            
+        ]
+    },
+    {
+        "id": 4,
+        "type": "LastViewed",
+        "title": "Son Göz Gezdirdiklerin",
+        "items": [
+            {
+                "id": 15,
+                "name": "RTX 4080",
+                "image": "rtx4080"
+            },
+            {
+                "id": 16,
+                "name": "Air Max",
+                "image": "airmax"
+            },
+            {
+                "id": 17,
+                "name": "Samsung TV",
+                "image": "samsungtv"
+            },
+            {
+                "id": 18,
+                "name": "iPhone 15",
+                "image": "iphone15"
+            },
+            {
+                "id": 19,
+                "name": "iPad Pro",
+                "image": "ipadpro"
+            },
+            {
+                "id": 20,
+                "name": "AirPods 2",
+                "image": "airpods2"
+            },
+            {
+                "id": 22,
+                "name": "Airfryer",
+                "image": "airfryer"
+            },
+            {
+                "id": 23,
+                "name": "Sony WH-C510",
+                "image": "sonykulaklık"
+            },
+            {
+                "id": 24,
+                "name": "Supradyn",
+                "image": "supradyn"
+            },
+            {
+                "id": 25,
+                "name": "AirPods 2",
+                "image": "airpods2"
+            },
+            {
+                "id": 26,
+                "name": "MacBook Pro",
+                "image": "macbookpro"
+            },
+            {
+                "id": 27,
+                "name": "Apple Watch",
+                "image": "applewatch"
+            }
+        ]
+    }
+        
+    ]
