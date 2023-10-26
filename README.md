@@ -7,5 +7,4 @@
 - JSONDecoder()
 - DropDown() to create DropDown Menu by initializing Pod
 
-
-![iosBootcampCompositionalLayout](https://github.com/atakanahmetyasin/Pazarama-iOS-Bootcamp/assets/142516106/2fe9e6c3-57fa-4f17-b016-f656e9c0814e)
+![ezgif com-video-to-gif](https://github.com/atakanahmetyasin/Pazarama-iOS-Bootcamp/assets/142516106/fe125ff7-c6fc-4d78-a501-678eafdcc32e)
